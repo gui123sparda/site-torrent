@@ -1,6 +1,13 @@
 function Home(){
     return (
-        <head><h1 class="title">Ola Mundo</h1></head>
+        <body class="body">
+            <header class="header">
+                <ul class="list"><h2>Início</h2>
+                    <li class="item-list"></li>
+                </ul>
+            </header>
+        
+        </body>
     );
 }
 
