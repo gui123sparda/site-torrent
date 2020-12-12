@@ -1,6 +1,6 @@
 function Home(){
     return (
-        <head><h1 className="title">Ola Mundo</h1></head>
+        <head><h1 class="title">Ola Mundo</h1></head>
     );
 }
 
